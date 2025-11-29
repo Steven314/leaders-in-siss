@@ -1,0 +1,317 @@
+---
+title: Leaders in SISS
+subtitle: Robert John Stimson
+author: 
+  - name:
+      given: S. L.
+      family: Carter
+institute: University of Toledo
+date: 2025-12-02
+date-format: long
+echo: false
+format:
+  revealjs:
+    theme: serif
+    smaller: true
+    slide-number: true
+    # mainfont: serif
+    footer: SISS8010
+bibliography: references.bib
+nocite: |
+  @*
+---
+
+# Introduction
+
+:::: {style="margin-left: 10%; margin-right: 10%"}
+
+"These *-isms* (and especially post-modernism) I regard as having set the discipline back, and to have severely detracted from the standing that human geography has gained as an analytical science as a result of the 'quantitative revolution'."
+
+::: {style="text-align: right"}
+-- Robert J. Stimson, 2007
+:::
+::::
+
+## Who
+
+::::: {.columns}
+:::: {.column}
+**Robert John Stimson**
+
+Emeritus Professor \
+School of the Environment \
+The University of Queensland, Australia
+
+::: {style="margin-left: 10%; margin-right: 10%; margin-top: 20%; font-size: 14pt"}
+"As a second year high school student as 13, I was taught geography... from that early age I was 'hooked' on geography."
+:::
+
+::::
+:::: {.column style="text-align: center"}
+
+![Source: [RSAI Presidents](https://www.regionalscience.org/index.php/about-us/presidents.html)](https://www.regionalscience.org/images/Media/Fellows/bob_stimson.png){width=60% fig-align="center"}
+
+::::
+:::::
+
+## What
+
+What areas did Stimson study?
+
+**Human Geography**
+
+::: {style="margin-left: 15%; margin-right: 15%; font-size: 16pt"}
+"During the 1970s I became more convinced that human geographers needed to work in multi-displinary teams and use rigorous quantitative methods to address challenging socio-spatial issues to develop a better 'evidence base' to inform public policy."
+:::
+
+- Healthcare Access
+- Survey Methods & Data Collection
+- Regional Development and Foreign Investment
+- Housing Policy
+- Quality of Life
+
+## Where
+
+:::: {.columns}
+::: {.column}
+
+- **Early Life**: Armidale, New South Wales
+- **Early Career**: Adelaide, South Australia
+  - Stimson also spent some time at the University of Michigan.
+- **Middle Career**: Canberra, Australian Capital Territory
+- **Later Career**: Brisbane, Queensland
+
+:::
+::: {.column style="text-align: center"}
+
+![New South Wales, Australia; Source: [TUBS on Wikimedia](https://en.wikipedia.org/wiki/New_South_Wales#/media/File:New_South_Wales_in_Australia.svg); [CC BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/New_South_Wales_in_Australia.svg/800px-New_South_Wales_in_Australia.svg.png){fig-align="center"}
+
+:::
+::::
+
+## When
+
+- 1944 - Born
+- 1960 - Began undergraduate at age 16.
+- 1963 - Started teaching high school geography and economics.
+- 1965 - Began tutoring at the University of Melbourne.
+- 1968 - Began as a lecturer at Flinders University.
+- 1976 - Visited the University of Michigan.
+- 1978 - Finished his Ph.D.
+- early 1980s - Took a leadership position at University of Canberra.
+- 1997 - Joined the University of Queensland.
+- 2000s - Various leadership positions at Queensland and Melbourne.
+- 2010s to Present - Still active in the field.
+
+::: {.aside}
+Some dates are inferred based on the context.
+:::
+
+# Education
+
+1960 - 1978
+
+## Educational Background
+
+:::: {.columns}
+::: {.column width=75%}
+
+- **Bachelor of Arts**: *University of New England*, 1960 - 1963
+  - Focusing on geography, geology, economics, and history.
+- **Bachelor of Letters**: *University of New England*, mid-1960s
+  - Further focusing on geography.
+- **Doctor of Philosophy**: *Flinders University of South Australia*, ~1970 - 1978
+  - *Social Space, Preference Space and Residential Location Behaviour: A Social Geography of Adelaide*[^thesis]
+
+:::
+::: {.column width=25%}
+
+[![](https://www.une.edu.au/__data/assets/image/0004/584005/une-logo.png){fig-align="center"}](https://www.une.edu.au/)
+
+[![](https://www.flinders.edu.au/etc.clientlibs/flinders/clientlibs/clientlib-site/resources/images/flinderuni_main_logo_black.png){fig-align="center"}](https://www.flinders.edu.au/)
+
+:::
+::::
+
+[^thesis]: I would have liked to find a copy of this, but was unable to do so.
+
+## Influences
+
+- Stimson's father was involved in academic administration at the University of New England.
+- He was taught geography in high school by [Mal Logan](https://en.wikipedia.org/wiki/Mal_Logan), a prominent geographer in Australia, leading to his interest in the field.
+- Stimson's education was concurrent with the *quantitative revolution* in geography.
+- He was a heavy reader of various prominent figures.
+  - [Johann Heinrich von Thünen](https://en.wikipedia.org/wiki/Johann_Heinrich_von_Th%C3%BCnen) - land use and rent, marginal cost
+  - [Walter Christaller](https://en.wikipedia.org/wiki/Walter_Christaller) - Central Place Theory
+  - [Peter Haggett](https://en.wikipedia.org/wiki/Peter_Haggett) - quantitative human geography
+  - [Richard Chorley](https://en.wikipedia.org/wiki/Richard_Chorley) - Systems Theory, physical geography
+
+# Early Career
+
+1968 - 1983, The 'Sales and Service' Era
+
+## Academic Work
+
+- Stimson was involved with attracting research dollars from government and industry.
+- The topics of study were
+  - access to healthcare and 
+  - regional impacts of new healthcare facilities.
+- University of Michigan, Institute for Social Research
+  - Stimson spent time developing survey methods.
+  - This resulted in the formation of Centre for Applied Social and Survey Research (CASSR) at Flinders.
+    - Stimson was its director for seven years.
+    - CASSR surveyed healthcare, housing, entertainment, and voting behavior.
+
+## Multi-Displinary
+
+- Spatially *Integrated* Social Science is multi-disciplinary.
+- Stimson recognized the need for combining distinct fields.
+
+::: {style="margin-left: 15%; margin-right: 15%; font-size: 16pt"}
+"During the 1970s I became more convinced that human geographers needed to work in multi-displinary teams and use rigorous quantitative methods to address challenging socio-spatial issues to develop a better 'evidence base' to inform public policy."
+
+"One of the encouraging things that happened at this time was our ability to form small multi-displinary research teams..."
+:::
+
+## Regional Science Association International
+
+:::: {.columns}
+::: {.column width=70%}
+
+- In reaction to the *-isms* of the 1970s, Stimson became associated with the Regional Science Association International.
+- He helped form the [Australia and New Zealand section](https://www.anzrsai.org/) and is recognized as a "[Life Member](https://www.anzrsai.org/about/)" of ANZRSAI.
+- Stimson was president of the section from 1980 to 1982.
+- He was president of RSAI in 2005 and 2006.
+
+:::
+::: {.column width=30%}
+
+![](https://regionalscience.org/images/logo_ok.png){fig-align="center"}
+
+![](https://www.anzrsai.org/themes/anzrsai/images/logo.png){fig-align="center"}
+
+:::
+::::
+
+# Middle Career
+
+1983 - 1997
+
+## Shift to Leadership Roles
+
+:::: {.columns}
+::: {.column width=80%}
+
+**Australian Institue of Urban Studies (AIUS), 1983**
+
+- Stimson left Flinders to go to the University of Canberra[^canberra], becoming Director of AIUS.
+- He began to focus more on the public and business concerns of policy related to regional development.
+
+**Head of the School of Administrative Studies, 1985**
+
+- Stimson interacted with federal-level public policy and administration.
+- He saw that there was value in spatial thinking and analysis.
+- In addition to adminstrative duties, Stimson researched the effects of policy on housing and published a book.
+
+:::
+::: {.column width=20%}
+
+![](https://www.canberra.edu.au/_designs/ucweb/common/images/logo/uc_logo_inline.png)
+
+:::
+::::
+
+
+[^canberra]: At the time it was called Canberra College of Advanced Education.
+
+## *The Brisbane Plan*, 1990
+
+:::: {.columns}
+::: {.column}
+
+- The goal was a 20-year plan for developing the city of [Brisbane](https://en.wikipedia.org/wiki/Brisbane).
+- The project was more oriented more toward policy and planning, so it was a shift from Stimson's home of geography and economics.
+- However, Stimson was able to actually apply his theories of analytical applied geography.
+- During this time Stimson moved to be the Chair of Urban Studies at Queensland University of Technology.
+
+:::
+::: {.column style="text-align: center"}
+
+![Brisbane, 2023; Source: [-wuppertaler on Wikimedia](https://commons.wikimedia.org/wiki/File:AUS_Brisbane,_Milton,_Brisbane_River_001.jpg); [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)](https://upload.wikimedia.org/wikipedia/commons/7/7e/AUS_Brisbane%2C_Milton%2C_Brisbane_River_001.jpg){fig-align="center"}
+
+:::
+::::
+
+::: {.aside}
+Disappointingly, I was not able to find much information on this project. Perhaps [Ganis, Minnery & Mateo-Babiano (2014)](https://www.tandfonline.com/doi/full/10.1080/08111146.2013.877390).
+:::
+
+# Later Career
+
+1997 - Present
+
+## Queensland and Melbourne
+
+:::: {.columns}
+::: {.column width=75%}
+
+- In 1997 Stimson took on the role of Chair in Geographical Sciences and Planning at the University of Queensland.
+- He "began a substantial effort to develop a much more explicit focus on regional economic development and especially on measuring and modeling endogenous regional performance."
+- Stimson was also director of and involved with a handful of groups at the University of Queensland and across Australia.
+  - These groups researched homelessness, opportunity and vulnerability, and large-scale urban modeling.
+- In the 2010s Stimson was involved with developing online infrastructure to better enable spatial research with the University of Melbourne.
+
+:::
+::: {.column width=25%}
+
+[![](https://static.uq.net.au/v11/logos/corporate/uq-logo.svg){fig-align="center"}](https://www.uq.edu.au/)
+
+[![](https://d2glwx35mhbfwf.cloudfront.net/v15.2.4/logo.svg){width=75% fig-align="center"}](https://www.unimelb.edu.au/)
+
+:::
+::::
+
+# Conclusion
+
+## Summary
+
+- Although retired (as far as I can find) Stimson appears to still be writing and publishing. He is now about 81 years old.
+- Diverse set of experiences between teaching, research, university and organizational leadership, public policy, and regional planning.
+- Early career was more oriented toward competing for research dollars and developing survey methods.
+- Later career consisted of more leadership roles while researching public policy on a wide variety of subjects.
+- Greatly influenced by the quantitative revolution and prior quantitative thinkers.
+- Avidly opposed to the *-isms* of 1970s and 1980s.
+
+## Quotes
+
+::::: {.columns}
+:::: {.column}
+
+::: {style="margin-left: 5%; margin-right: 5%; font-size: 16pt"}
+
+"It seems to me that a key factor is to be open to becoming engaged with researchers from other disciplinary backgrounds; to work in multi-disciplinary teams to bring to bear spatial analytic approaches to address issues of policy and business significance; and to be proactive in promulgating the potential contributions that can be made by geographers."
+
+"Only a firm commitment in human geography programs to an applied analytical paradigm can overcome the current malaise in the discipline and re-establish it as a science."
+
+:::
+::::
+:::: {.column style="text-align: center"}
+
+![Source: [RSAI Newsletter May 2013](https://www.regionalscience.org/index.php/about-us/council/item/2242-bob-stimson.html)](https://www.regionalscience.org/images/Bob_Stimson2.jpg)
+
+::::
+:::::
+
+## References
+
+::: {#refs}
+:::
+
+## Discussion Paper
+
+:::{style="text-align: center"}
+
+- Stimson, Robsom & Shyy. 2009. "Modeling regional endogenous growth: an application to the non-metropolitan regions of Australia." *The Annals of Regional Science*. 43: 379-398. <https://doi.org/10.1007/s00168-008-0216-0>.  
+
+:::
+
